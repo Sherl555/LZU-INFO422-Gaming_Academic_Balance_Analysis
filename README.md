@@ -1,15 +1,35 @@
-## Gaming-Academic Balance Analysis
+## Gaming Behavior and Academic Achievement: Exploring the Impacts of Video Games on Academic Performance
 
 ### Project Overview
 This project is developed as part of the INFO 442 Data Science Project at Drexel University/Lanzhou University. This research investigates the relationship between gaming habits and academic performance among 8,000 students, analyzing how various gaming behaviors correlate with academic outcomes to identify optimal gaming-study balance points.
 
 **Core Research Question:** *"How do gaming behavior patterns affect academic performance, and is there an optimal gaming-learning balance point?"*
 
+**Specific Research Direction:** 
+- Quantify the relationship between game behavior patterns and students' academic performance.
+- Seek a balance point between game behavior and academic performance.
+- Explore the combined impact of game behavior and academic performance on students' physical health.
+- Identify different game-learning behavior pattern groups through cluster analysis.
+- Investigate the differences in the impact of different types of games on learning. 
+
+We aim to establish a quantifiable relationship between gaming behavior and academic performance under the premise of data-driven analysis, thereby providing a scientific basis for individualized behavioral recommendations. Through the research on the above issues, we can obtain the following practical significance: 
+
+1)	Quantifying the relationship between games and learning and seeking the balance point between games and academic development can provide us with constructive, data and theory-supported effective suggestions for effectively intervening in students' gaming behavior and ensuring their academic development.
+
+2)	Exploring the impact of gaming behavior and academic performance on students' physical health can offer efficient solutions and guidance for parents and schools to target and intervene in advance to protect the groups affected by physical health.
+
+3)	Identifying different game-learning behavior pattern groups can help us effectively identify the high-risk groups for academic performance under the influence of gaming behavior, which is beneficial for schools and parents to intervene in advance and avoid affecting students' academic performance.
+
+4)	By exploring the impact of different types of games on learning, we can guide students' gaming behavior and enable electronic games to have a positive and beneficial impact on students' academic development.
+
+
+
+
 ### Team Members (Group 5)
 
 | Name | Student ID | Email |
 |------|------------|-------|
-| Jingxu Li | 320230942071  | ljingxu2023@lzu.edu.cn |
+| Jingxu Li | 320230942071  | 993862357@qq.com |
 | Bohan Liu | 320230942141 | liubh2023@lzu.edu.cn |
 | Shuyang Zhang | 320230942711  | zhshuyang2023@lzu.edu.cn |
 | Jiayu Wang | 320230942421  | wangjiayu2023@lzu.edu.cn |
