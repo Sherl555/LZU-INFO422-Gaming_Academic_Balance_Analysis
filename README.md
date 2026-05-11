@@ -1,5 +1,6 @@
 ## Gaming Behavior and Academic Achievement: Exploring the Impacts of Video Games on Academic Performance
 
+**Project Link:** https://github.com/Sherl555/LZU-INFO422-Gaming_Academic_Balance_Analysis
 ### Project Overview
 This project is developed as part of the INFO 442 Data Science Project at Drexel University/Lanzhou University. This research investigates the relationship between gaming habits and academic performance among 8,000 students, analyzing how various gaming behaviors correlate with academic outcomes to identify optimal gaming-study balance points.
 
