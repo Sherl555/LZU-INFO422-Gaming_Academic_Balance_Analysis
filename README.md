@@ -34,7 +34,7 @@ We aim to establish a quantifiable relationship between gaming behavior and acad
 | Bohan Liu | 320230942141 | liubh2023@lzu.edu.cn |
 | Shuyang Zhang | 320230942711  | zhshuyang2023@lzu.edu.cn |
 | Jiayu Wang | 320230942421  | wangjiayu2023@lzu.edu.cn |
-| Yang Zhou | 320230942801  | yangzhou2023@lzu.edu.cn |
+| Yang Zhou | 320230942801  | suxinghan1@gmail.com |
 
 
 
