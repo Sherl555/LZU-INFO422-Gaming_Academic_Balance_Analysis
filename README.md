@@ -66,8 +66,13 @@ We aim to establish a quantifiable relationship between gaming behavior and acad
 ```
 project/
 ├── data/                   # Original and processed dataset files
-├── notebooks/              # Jupyter notebook files
+    └── processed           # The processed datasets
+├── exercise*/              # Jupyter notebook exercises submitted by each member
 ├── docs/                   # Project documentation
+    ├── Data Acquisition & Preprocessing        # M2/M3 — Data Acquisition & PreprocessingPage code and report
+    ├── Exploratory Data Analytics              # M4 — Exploratory Data Analytics code and report  
+    ├──
+    └──
 └── README.md               # This file
 ```
 
