@@ -1,0 +1,6 @@
+design_matrix,n_features,features
+core_features,6,"gaming_hours, study_hours, sleep_hours, attendance, addiction_score, stress_level_ord"
+core_threshold_2h,8,"gaming_hours, study_hours, sleep_hours, attendance, addiction_score, stress_level_ord, gaming_within_2h, gaming_over_2h"
+core_threshold_sensitivity,9,"gaming_hours, study_hours, sleep_hours, attendance, addiction_score, stress_level_ord, gaming_over_1_5h, gaming_over_2h, gaming_over_2_5h"
+full_features,23,"age, gaming_hours, study_hours, sleep_hours, attendance, social_activity, device_usage, addiction_score, gender_Male, gender_Other, genre_Casual, genre_FPS, genre_RPG, stress_level_ord, gaming_hours_sq, gaming_hours_x_FPS, gaming_hours_x_RPG, gaming_study_ratio, total_load, gaming_within_2h, gaming_over_2h, gaming_over_1_5h, gaming_over_2_5h"
+full_no_device_usage,22,"age, gaming_hours, study_hours, sleep_hours, attendance, social_activity, addiction_score, gender_Male, gender_Other, genre_Casual, genre_FPS, genre_RPG, stress_level_ord, gaming_hours_sq, gaming_hours_x_FPS, gaming_hours_x_RPG, gaming_study_ratio, total_load, gaming_within_2h, gaming_over_2h, gaming_over_1_5h, gaming_over_2_5h"

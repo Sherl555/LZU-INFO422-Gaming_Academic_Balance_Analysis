@@ -1,0 +1,12 @@
+Model,Short_name,Model_family,Feature_set,Number_of_features,Excluded_features,Threshold_features_added
+Dummy Mean Baseline,dummy_mean_baseline,baseline,full_features,23,reaction_time_ms,"gaming_within_2h, gaming_over_2h, gaming_over_1_5h, gaming_over_2_5h"
+Linear Regression Core,linear_regression_core,linear,core_features,6,reaction_time_ms,"gaming_within_2h, gaming_over_2h, gaming_over_1_5h, gaming_over_2_5h"
+Linear Regression Full,linear_regression_full,linear,full_features,23,reaction_time_ms,"gaming_within_2h, gaming_over_2h, gaming_over_1_5h, gaming_over_2_5h"
+Piecewise Linear 2h,piecewise_linear_2h,linear,core_threshold_2h,8,reaction_time_ms,"gaming_within_2h, gaming_over_2h, gaming_over_1_5h, gaming_over_2_5h"
+Piecewise Linear Sensitivity,piecewise_linear_sensitivity,linear,core_threshold_sensitivity,9,reaction_time_ms,"gaming_within_2h, gaming_over_2h, gaming_over_1_5h, gaming_over_2_5h"
+Ridge Regression,ridge_regression,regularized_linear,full_features,23,reaction_time_ms,"gaming_within_2h, gaming_over_2h, gaming_over_1_5h, gaming_over_2_5h"
+Lasso Regression,lasso_regression,regularized_linear,full_features,23,reaction_time_ms,"gaming_within_2h, gaming_over_2h, gaming_over_1_5h, gaming_over_2_5h"
+ElasticNet Regression,elasticnet_regression,regularized_linear,full_features,23,reaction_time_ms,"gaming_within_2h, gaming_over_2h, gaming_over_1_5h, gaming_over_2_5h"
+Random Forest,random_forest,tree_ensemble,full_features,23,reaction_time_ms,"gaming_within_2h, gaming_over_2h, gaming_over_1_5h, gaming_over_2_5h"
+Gradient Boosting,gradient_boosting,tree_ensemble,full_features,23,reaction_time_ms,"gaming_within_2h, gaming_over_2h, gaming_over_1_5h, gaming_over_2_5h"
+Ridge No Device Usage,ridge_no_device_usage,regularized_linear_sensitivity,full_no_device_usage,22,reaction_time_ms,"gaming_within_2h, gaming_over_2h, gaming_over_1_5h, gaming_over_2_5h"

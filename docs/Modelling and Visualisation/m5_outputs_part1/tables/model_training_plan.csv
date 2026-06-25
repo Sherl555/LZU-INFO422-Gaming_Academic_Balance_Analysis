@@ -1,0 +1,12 @@
+Model,Short_name,Model_family,Feature_set,Number_of_features
+Dummy Mean Baseline,dummy_mean_baseline,baseline,full_features,23
+Linear Regression Core,linear_regression_core,linear,core_features,6
+Linear Regression Full,linear_regression_full,linear,full_features,23
+Piecewise Linear 2h,piecewise_linear_2h,linear,core_threshold_2h,8
+Piecewise Linear Sensitivity,piecewise_linear_sensitivity,linear,core_threshold_sensitivity,9
+Ridge Regression,ridge_regression,regularized_linear,full_features,23
+Lasso Regression,lasso_regression,regularized_linear,full_features,23
+ElasticNet Regression,elasticnet_regression,regularized_linear,full_features,23
+Random Forest,random_forest,tree_ensemble,full_features,23
+Gradient Boosting,gradient_boosting,tree_ensemble,full_features,23
+Ridge No Device Usage,ridge_no_device_usage,regularized_linear_sensitivity,full_no_device_usage,22

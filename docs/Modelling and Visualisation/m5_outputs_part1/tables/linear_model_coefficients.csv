@@ -1,0 +1,138 @@
+Model,Short_name,Feature,Coefficient
+Linear Regression Core,linear_regression_core,gaming_hours,-11.683929575744301
+Linear Regression Core,linear_regression_core,study_hours,15.863515531685254
+Linear Regression Core,linear_regression_core,sleep_hours,5.768578165401035
+Linear Regression Core,linear_regression_core,attendance,3.2072791677879926
+Linear Regression Core,linear_regression_core,addiction_score,0.20156871296451184
+Linear Regression Core,linear_regression_core,stress_level_ord,1.2749425501128189
+Linear Regression Full,linear_regression_full,age,0.016644858618874672
+Linear Regression Full,linear_regression_full,gaming_hours,-2.04134197241913
+Linear Regression Full,linear_regression_full,study_hours,10.231738392951724
+Linear Regression Full,linear_regression_full,sleep_hours,5.6699191216717635
+Linear Regression Full,linear_regression_full,attendance,3.2427804282074266
+Linear Regression Full,linear_regression_full,social_activity,0.007945965003965137
+Linear Regression Full,linear_regression_full,device_usage,-0.07704923239035168
+Linear Regression Full,linear_regression_full,addiction_score,0.21835353348454054
+Linear Regression Full,linear_regression_full,gender_Male,-0.08351055023690988
+Linear Regression Full,linear_regression_full,gender_Other,-0.0011676176162846617
+Linear Regression Full,linear_regression_full,genre_Casual,-0.13731862282178486
+Linear Regression Full,linear_regression_full,genre_FPS,0.07035178803722704
+Linear Regression Full,linear_regression_full,genre_RPG,0.06219521004186251
+Linear Regression Full,linear_regression_full,stress_level_ord,0.9722315293770273
+Linear Regression Full,linear_regression_full,gaming_hours_sq,-9.42495202574841
+Linear Regression Full,linear_regression_full,gaming_hours_x_FPS,-0.12668383899535257
+Linear Regression Full,linear_regression_full,gaming_hours_x_RPG,-0.08539808223255614
+Linear Regression Full,linear_regression_full,gaming_study_ratio,-1.6188813367692414
+Linear Regression Full,linear_regression_full,total_load,6.323679401942446
+Linear Regression Full,linear_regression_full,gaming_within_2h,1.0919095859260353
+Linear Regression Full,linear_regression_full,gaming_over_2h,-2.653805188657453
+Linear Regression Full,linear_regression_full,gaming_over_1_5h,-18.13826051225344
+Linear Regression Full,linear_regression_full,gaming_over_2_5h,16.471430737794726
+Piecewise Linear 2h,piecewise_linear_2h,gaming_hours,-5.6972756380112335
+Piecewise Linear 2h,piecewise_linear_2h,study_hours,16.04500959128392
+Piecewise Linear 2h,piecewise_linear_2h,sleep_hours,5.602645462330167
+Piecewise Linear 2h,piecewise_linear_2h,attendance,3.233299716106725
+Piecewise Linear 2h,piecewise_linear_2h,addiction_score,0.22697549022911692
+Piecewise Linear 2h,piecewise_linear_2h,stress_level_ord,0.7139350357541168
+Piecewise Linear 2h,piecewise_linear_2h,gaming_within_2h,0.4204709894296978
+Piecewise Linear 2h,piecewise_linear_2h,gaming_over_2h,-6.725679764145707
+Piecewise Linear Sensitivity,piecewise_linear_sensitivity,gaming_hours,4.424691760468171
+Piecewise Linear Sensitivity,piecewise_linear_sensitivity,study_hours,16.010663861878587
+Piecewise Linear Sensitivity,piecewise_linear_sensitivity,sleep_hours,5.643771860439518
+Piecewise Linear Sensitivity,piecewise_linear_sensitivity,attendance,3.2377870518400305
+Piecewise Linear Sensitivity,piecewise_linear_sensitivity,addiction_score,0.21275975813946238
+Piecewise Linear Sensitivity,piecewise_linear_sensitivity,stress_level_ord,0.8102762380117341
+Piecewise Linear Sensitivity,piecewise_linear_sensitivity,gaming_over_1_5h,-24.092820276466448
+Piecewise Linear Sensitivity,piecewise_linear_sensitivity,gaming_over_2h,7.581087737924941
+Piecewise Linear Sensitivity,piecewise_linear_sensitivity,gaming_over_2_5h,0.07533638837101608
+Ridge Regression,ridge_regression,age,0.016288044980797167
+Ridge Regression,ridge_regression,gaming_hours,-2.1666338330628605
+Ridge Regression,ridge_regression,study_hours,10.272497664089087
+Ridge Regression,ridge_regression,sleep_hours,5.668574517279012
+Ridge Regression,ridge_regression,attendance,3.242336818323338
+Ridge Regression,ridge_regression,social_activity,0.007690086698858067
+Ridge Regression,ridge_regression,device_usage,-0.07731088098489636
+Ridge Regression,ridge_regression,addiction_score,0.21775284611089774
+Ridge Regression,ridge_regression,gender_Male,-0.08363335277272199
+Ridge Regression,ridge_regression,gender_Other,-0.0019064954428813508
+Ridge Regression,ridge_regression,genre_Casual,-0.13669635321681994
+Ridge Regression,ridge_regression,genre_FPS,0.07005619958601983
+Ridge Regression,ridge_regression,genre_RPG,0.061888447604459884
+Ridge Regression,ridge_regression,stress_level_ord,0.9682821448685672
+Ridge Regression,ridge_regression,gaming_hours_sq,-9.291898783858187
+Ridge Regression,ridge_regression,gaming_hours_x_FPS,-0.12600915558459747
+Ridge Regression,ridge_regression,gaming_hours_x_RPG,-0.08468037905510073
+Ridge Regression,ridge_regression,gaming_study_ratio,-1.6191323963623745
+Ridge Regression,ridge_regression,total_load,6.270242990030027
+Ridge Regression,ridge_regression,gaming_within_2h,1.077180256301972
+Ridge Regression,ridge_regression,gaming_over_2h,-2.7954983332379015
+Ridge Regression,ridge_regression,gaming_over_1_5h,-17.674380623188313
+Ridge Regression,ridge_regression,gaming_over_2_5h,16.18236381474003
+Lasso Regression,lasso_regression,age,0.014490662036552774
+Lasso Regression,lasso_regression,gaming_hours,0.0
+Lasso Regression,lasso_regression,study_hours,14.99157187348691
+Lasso Regression,lasso_regression,sleep_hours,5.6652963741871
+Lasso Regression,lasso_regression,attendance,3.2402085705010624
+Lasso Regression,lasso_regression,social_activity,0.006409814871519525
+Lasso Regression,lasso_regression,device_usage,-0.06700634689994331
+Lasso Regression,lasso_regression,addiction_score,0.2065023803113374
+Lasso Regression,lasso_regression,gender_Male,-0.08164552303572635
+Lasso Regression,lasso_regression,gender_Other,-9.355473431538947e-05
+Lasso Regression,lasso_regression,genre_Casual,-0.17800623940111332
+Lasso Regression,lasso_regression,genre_FPS,0.0
+Lasso Regression,lasso_regression,genre_RPG,-0.0
+Lasso Regression,lasso_regression,stress_level_ord,0.9597806332606799
+Lasso Regression,lasso_regression,gaming_hours_sq,-9.076089304023737
+Lasso Regression,lasso_regression,gaming_hours_x_FPS,-0.09800126685340131
+Lasso Regression,lasso_regression,gaming_hours_x_RPG,-0.061685489156798966
+Lasso Regression,lasso_regression,gaming_study_ratio,-1.6143783416734567
+Lasso Regression,lasso_regression,total_load,0.0
+Lasso Regression,lasso_regression,gaming_within_2h,1.5122704641007174
+Lasso Regression,lasso_regression,gaming_over_2h,-0.2759375993609373
+Lasso Regression,lasso_regression,gaming_over_1_5h,-17.99346236267776
+Lasso Regression,lasso_regression,gaming_over_2_5h,15.510510397725698
+ElasticNet Regression,elasticnet_regression,age,0.01567066524107111
+ElasticNet Regression,elasticnet_regression,gaming_hours,-0.0
+ElasticNet Regression,elasticnet_regression,study_hours,13.277724874109811
+ElasticNet Regression,elasticnet_regression,sleep_hours,5.667200542447628
+ElasticNet Regression,elasticnet_regression,attendance,3.24132300270879
+ElasticNet Regression,elasticnet_regression,social_activity,0.007429938727327384
+ElasticNet Regression,elasticnet_regression,device_usage,-0.0752963689650532
+ElasticNet Regression,elasticnet_regression,addiction_score,0.21336626408215764
+ElasticNet Regression,elasticnet_regression,gender_Male,-0.08309959925210106
+ElasticNet Regression,elasticnet_regression,gender_Other,-0.0015249918083076071
+ElasticNet Regression,elasticnet_regression,genre_Casual,-0.19289274318783692
+ElasticNet Regression,elasticnet_regression,genre_FPS,0.0024006236253282472
+ElasticNet Regression,elasticnet_regression,genre_RPG,-0.0
+ElasticNet Regression,elasticnet_regression,stress_level_ord,0.9637866158365623
+ElasticNet Regression,elasticnet_regression,gaming_hours_sq,-9.168296945392141
+ElasticNet Regression,elasticnet_regression,gaming_hours_x_FPS,-0.11844382357960569
+ElasticNet Regression,elasticnet_regression,gaming_hours_x_RPG,-0.07858909476751497
+ElasticNet Regression,elasticnet_regression,gaming_study_ratio,-1.618483035920815
+ElasticNet Regression,elasticnet_regression,total_load,2.2753819534664257
+ElasticNet Regression,elasticnet_regression,gaming_within_2h,1.1837122756569989
+ElasticNet Regression,elasticnet_regression,gaming_over_2h,-1.5731155590311696
+ElasticNet Regression,elasticnet_regression,gaming_over_1_5h,-18.024124741210617
+ElasticNet Regression,elasticnet_regression,gaming_over_2_5h,15.626964728195714
+Ridge No Device Usage,ridge_no_device_usage,age,0.01650687759331504
+Ridge No Device Usage,ridge_no_device_usage,gaming_hours,-2.181714405541925
+Ridge No Device Usage,ridge_no_device_usage,study_hours,10.278023838508147
+Ridge No Device Usage,ridge_no_device_usage,sleep_hours,5.667585020887373
+Ridge No Device Usage,ridge_no_device_usage,attendance,3.2428030594358006
+Ridge No Device Usage,ridge_no_device_usage,social_activity,0.007456460846924529
+Ridge No Device Usage,ridge_no_device_usage,addiction_score,0.18459198851633118
+Ridge No Device Usage,ridge_no_device_usage,gender_Male,-0.08331867531364878
+Ridge No Device Usage,ridge_no_device_usage,gender_Other,-0.0025237265379018936
+Ridge No Device Usage,ridge_no_device_usage,genre_Casual,-0.13704315246775423
+Ridge No Device Usage,ridge_no_device_usage,genre_FPS,0.0704779624566072
+Ridge No Device Usage,ridge_no_device_usage,genre_RPG,0.061783514950796814
+Ridge No Device Usage,ridge_no_device_usage,stress_level_ord,0.9675813042497339
+Ridge No Device Usage,ridge_no_device_usage,gaming_hours_sq,-9.286682835814418
+Ridge No Device Usage,ridge_no_device_usage,gaming_hours_x_FPS,-0.12768483604088487
+Ridge No Device Usage,ridge_no_device_usage,gaming_hours_x_RPG,-0.08488657426948976
+Ridge No Device Usage,ridge_no_device_usage,gaming_study_ratio,-1.618512572131749
+Ridge No Device Usage,ridge_no_device_usage,total_load,6.264277580145574
+Ridge No Device Usage,ridge_no_device_usage,gaming_within_2h,1.0749350578187205
+Ridge No Device Usage,ridge_no_device_usage,gaming_over_2h,-2.8124305902240394
+Ridge No Device Usage,ridge_no_device_usage,gaming_over_1_5h,-17.67821018459597
+Ridge No Device Usage,ridge_no_device_usage,gaming_over_2_5h,16.1827444871426

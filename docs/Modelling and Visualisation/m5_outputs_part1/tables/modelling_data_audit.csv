@@ -1,0 +1,2 @@
+n_train_rows,n_test_rows,n_features_raw,n_features_scaled,train_target_mean,test_target_mean,train_target_std,test_target_std,column_alignment_raw,column_alignment_scaled,missing_values_X_train,missing_values_X_test,missing_values_y_train,missing_values_y_test
+6400,1600,20,20,66.02510877898102,66.80344449814238,22.51121835111435,22.057604274940864,True,True,0,0,0,0
