@@ -71,8 +71,9 @@ project/
 ├── docs/                   # Project documentation
     ├── Data Acquisition & Preprocessing        # M2/M3 — Data Acquisition & PreprocessingPage code and report
     ├── Exploratory Data Analytics              # M4 — Exploratory Data Analytics code and report  
-    ├──
-    └──
+    ├── Modelling and Visualisation             # M5 - Data Modelling
+    ├── Evaluation and Visualisation            # M5 - Evaluation and Visualisation
+    └── Deployment Report and Presentation      # M6 - Final Deployment, Report & Presentation 
 └── README.md               # This file
 ```
 
