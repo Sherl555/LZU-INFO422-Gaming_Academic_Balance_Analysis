@@ -73,7 +73,8 @@ project/
     ├── Exploratory Data Analytics              # M4 — Exploratory Data Analytics code and report  
     ├── Modelling and Visualisation             # M5 - Data Modelling
     ├── Evaluation and Visualisation            # M5 - Evaluation and Visualisation
-    └── Deployment Report and Presentation      # M6 - Final Deployment, Report & Presentation 
+    ├── Final Deployment                        # M6 - Final Deployment
+    └── Presentation                            # M6 - Final Presentation Slide
 └── README.md               # This file
 ```
 
