@@ -69,12 +69,13 @@ project/
     └── processed           # The processed datasets
 ├── exercise*/              # Jupyter notebook exercises submitted by each member
 ├── docs/                   # Project documentation
-    ├── Data Acquisition & Preprocessing        # M2/M3 — Data Acquisition & PreprocessingPage code and report
-    ├── Exploratory Data Analytics              # M4 — Exploratory Data Analytics code and report  
-    ├── Modelling and Visualisation             # M5 - Data Modelling
-    ├── Evaluation and Visualisation            # M5 - Evaluation and Visualisation
-    ├── Final Deployment                        # M6 - Final Deployment
-    └── Presentation                            # M6 - Final Presentation Slide
+    ├── Data Acquisition & Preprocessing             # M2/M3 — Data Acquisition & PreprocessingPage code and report
+    ├── Exploratory Data Analytics                   # M4 — Exploratory Data Analytics code and report  
+    ├── Modelling and Visualisation                  # M5 - Data Modelling
+    ├── Evaluation and Visualisation                 # M5 - Evaluation and Visualisation
+    ├── Final Deployment                             # M6 - Final Deployment
+    ├── Final Report, Model Card & Deployment Video  # M6 - Final Report, Model Card and Deployment Video for the working demo
+    └── Presentation                                 # M6 - Final Presentation Slide
 └── README.md               # This file
 ```
 
